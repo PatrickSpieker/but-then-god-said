@@ -1,3 +1,9 @@
+# Log of work
+Basically the issue rn is that gatsby version 5.3.3 requires node 18, but cloudflare only supports node 17 :(
+
+
+
+--- 
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
